@@ -1,0 +1,28 @@
+Contents of /Users/charlie/Documents/Development/_libs/cpp/Cinder/blocks/assetReloader/samples/LiveReload/xcode/LiveReload_Prefix.pch
+4.0 (tags/Apple/clang-421.0.57) (based on LLVM 3.1svn)
+i386-apple-darwin11.4.0
+-x
+c++
+-arch
+i386
+-fmessage-length=0
+-fpascal-strings
+-O0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+-fasm-blocks
+-mmacosx-version-min=10.5
+-g
+-iquote
+-iquote
+-iquote../../../../include
+-iquote../include
+-iquote../../../../blocks/AssetReloader/include
+-I/Users/charlie/Documents/Development/_libs/cpp/Cinder/blocks/assetReloader/samples/LiveReload/xcode/build/Debug/include
+-I../../../../boost
+-F/Users/charlie/Documents/Development/_libs/cpp/Cinder/blocks/assetReloader/samples/LiveReload/xcode/build/Debug
+-ferror-limit=10
+-working-directory=/Users/charlie/Documents/Development/_libs/cpp/Cinder/blocks/assetReloader/samples/LiveReload/xcode
+-Xclang
+-detailed-preprocessing-record
+SDK_PRODUCT_BUILD_VERSION=11E52
